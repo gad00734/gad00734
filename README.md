@@ -98,3 +98,38 @@ Windows Forms desktop app to manage digital notes with categories, reminders, an
 - 🔹 Technologies: C#, Windows Forms, MDI Interface, SQLite  
 - 🔗 [GitHub Repository](https://github.com/gad00734/WinFormsApp)
 
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-008000?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+
+
+## 🏅 Certifications
+
+- ITI Full Stack .NET (4 months, Banisuef)
+- C# Advanced – Udemy
+- SQL Masterclass – Coursera
+
+
+## 📫 Contact
+
+- Phone Number: +201030271734
+- Email: medogadalrb@gmail.com  
+- LinkedIn: [linkedin.com/in/mohamed-m0stafa](https://linkedin.com/in/mohamed-m0stafa)  
+- GitHub: [github.com/gad00734](https://github.com/gad00734)
+
+
+## 🌍 Languages
+
+- Arabic: Native  
+- English: Professional Working Proficiency
+
