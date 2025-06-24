@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm [Gad]</h1>
 <h3 align="center">.NET Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **CRM**
 - 👯 I’m looking to collaborate on **.NET + Angular projects**
 - 💬 Ask me about **ASP.NET Core, Entity Framework, Angular, SQL**
 - 📫 Reach me at: [medogadalrb@gmail.com](mailto:medogadalrb@gmail.com)
