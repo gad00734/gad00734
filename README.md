@@ -31,6 +31,7 @@
 - 📚 Graduation Project: Excellent  
 - 🟨 GPA: 3.0  
 
+---
 
 ## 💼 Experience
 <table>
