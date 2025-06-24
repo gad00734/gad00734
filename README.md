@@ -30,3 +30,71 @@
 - 🗓 Duration: Sep 2019 – June 2023  
 - 📚 Graduation Project: Excellent  
 - 🟨 GPA: 3.0  
+
+
+## 💼 Experience
+<table>
+  <tr>
+    <td width="70%">
+    
+<b>Information Technology Institute (ITI)</b>  
+🗓️ <b>Mar 2025 – Jul 2025</b> (4 months)  
+📍 <b>Location:</b> Banisuef, Egypt
+
+</td>
+<td>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ4YW02ZGdhMThuN2I1aXM4dWloNHA3aHR1NWRkcmgya3IzMm13dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="130px" />
+</td>
+</tr>
+</table>
+
+
+---
+
+### Key Responsibilities:
+
+- Built solid foundations in both front-end and back-end development using **C#**, **ASP.NET Core**, **Entity Framework**, **JavaScript**, and **Angular**.
+- Developed complete web applications with layered architecture, integrating authentication, authorization, and CRUD operations.
+- Worked on real-world projects applying best practices in OOP, SOLID principles, and clean architecture.
+- Gained hands-on experience with database management using **SQL Server**, including stored procedures and complex queries.
+- Practiced DevOps basics like Git, GitHub workflow, and deployment.
+
+---
+
+### 💡 Technologies & Concepts:
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-008000?style=for-the-badge&logo=.net)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+## 🚀 Projects
+
+### 🎬 Movies App  
+A movie browsing web app built with Angular. It features dynamic movie listings, search, details page, and responsive UI.
+
+- 🔹 Technologies: Angular, TypeScript, TMDb API, Bootstrap  
+- 🔗 [GitHub Repository](https://github.com/gad00734/Movies-App)
+
+---
+
+### 🛍️ E-Commerce Dashboard  
+Admin dashboard for managing products and categories, with full CRUD operations and validations.
+
+- 🔹 Technologies: ASP.NET Core MVC, Entity Framework, SQL Server, Bootstrap  
+- 🔗 [GitHub Repository](https://github.com/gad00734/Notes-App)
+
+---
+
+### 📝 Digital Notes Manager  
+Windows Forms desktop app to manage digital notes with categories, reminders, and rich text editing.
+
+- 🔹 Technologies: C#, Windows Forms, MDI Interface, SQLite  
+- 🔗 [GitHub Repository](https://github.com/gad00734/WinFormsApp)
+
